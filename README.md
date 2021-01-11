@@ -11,7 +11,7 @@ The teams is developing the MadeInDreams Project.
 The project could be consider has a NFT wallet for some, or a trading bot for others, some might use it as a bank and even a DEX.
 The MadeInDreams Node Project is;
 
-### The GUI
+### The Node
 An Electron App for easy distribution tu the public. The Electron app provide a GUI for the node process in the background.
 
 The node process is the Core of the Project. It handles all the developpers modules, the Wallet, APIs call.
